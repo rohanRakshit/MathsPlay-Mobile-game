@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\.cxx\\Debug\\2e3s5l23\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\.cxx\\Debug\\2e3s5l23\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mathsplay::@6890427a1f51a3e7e1df": {
+      "artifactName": "mathsplay",
+      "abi": "x86",
+      "output": "C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\build\\intermediates\\cxx\\Debug\\2e3s5l23\\obj\\x86\\libmathsplay.so",
+      "runtimeFiles": []
+    }
+  }
+}

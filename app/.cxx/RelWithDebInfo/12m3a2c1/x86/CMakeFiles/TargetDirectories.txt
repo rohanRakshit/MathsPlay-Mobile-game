@@ -1,0 +1,3 @@
+C:/Users/lenovo/Documents/Programmes/Career/MathsPlay/app/.cxx/RelWithDebInfo/12m3a2c1/x86/CMakeFiles/mathsplay.dir
+C:/Users/lenovo/Documents/Programmes/Career/MathsPlay/app/.cxx/RelWithDebInfo/12m3a2c1/x86/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Documents/Programmes/Career/MathsPlay/app/.cxx/RelWithDebInfo/12m3a2c1/x86/CMakeFiles/rebuild_cache.dir

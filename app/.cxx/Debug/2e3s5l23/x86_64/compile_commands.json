@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/lenovo/Documents/Programmes/Career/MathsPlay/app/.cxx/Debug/2e3s5l23/x86_64",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmathsplay_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mathsplay.dir\\native-lib.cpp.o -c C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\lenovo\\Documents\\Programmes\\Career\\MathsPlay\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]
