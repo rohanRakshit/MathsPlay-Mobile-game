@@ -57,7 +57,7 @@
         android:id="@+id/textView3"
         android:layout_width="332dp"
         android:layout_height="108dp"
-        android:text="Enter number of questions you want to (multiple of 5, minimum is 10)"
+        android:text="Enter number of questions you want (min:10 and max:30,\n10sec for each question)"
         android:textAlignment="center"
         android:textColor="#00BCD4"
         android:textSize="24sp"
